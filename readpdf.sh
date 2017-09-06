@@ -5,4 +5,4 @@
 #2017-09-06
 pdftoppm -rx 300 -ry 300 -png $1 forread
 fbi -a -w *.png 
-rm *.png
+rm forread*.png
